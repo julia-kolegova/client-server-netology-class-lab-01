@@ -39,7 +39,7 @@
             <artifactId>liquibase-core</artifactId>
         </dependency>
 
-        <!-- PostgreSQL JDBC драйвер -->
+
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
